@@ -1,0 +1,6 @@
+pagesFactory\LoginPage_PF.class
+pagesFactory\CartPage_PF.class
+pagesFactory\HomePage_PF.class
+pagesFactory\RegisterPage_PF.class
+runner\TestRunner.class
+StepDefinitions\SmokeSteps_PF.class
