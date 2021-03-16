@@ -1,10 +1,11 @@
 # DemoBlaze
 
 Proyecto realizado con:
-Cucumber Java
-Cucumber JUnit
-Maven
-Selenium Java
+Java,
+Cucumber,
+JUnit,
+Maven,
+Selenium WebDriver
 
 Pre-requisitos para ejecutar por consola:
 Verificar que esté instalado maven: mvn -version
